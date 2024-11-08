@@ -1,4 +1,10 @@
 Notes for DSA in Python
 yt: codebsaics  #1 Time:  6:24 PM
+-----------------------------------------------
+#2  Big O Notation
+------------------------------------------------------
+Unable to understand to anythin from codebasics starting new video from freeCpdeCamp.org
+------------------------------------------------------
 
 
+  
