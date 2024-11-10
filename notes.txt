@@ -5,6 +5,9 @@ yt: codebsaics  #1 Time:  6:24 PM
 ------------------------------------------------------
 Unable to understand to anythin from codebasics starting new video from freeCpdeCamp.org
 ------------------------------------------------------
-
-
+Lesson 1 - Binary Search m linked lists and complexity
+    
+Example: Alice kept cards in decreasing order on the table, and bob will be told to pick a card from the stack, the catch is he has to complete the task by 
+turning least amount of cards.
   
+Pass --> if u wanna keep fn empty   
